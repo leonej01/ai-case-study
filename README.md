@@ -1,6 +1,6 @@
 ## Module 1 Challenge
 
-Must inlcude least one of each of the following:
+Must inlcude at least one of each of the following:
 * Heading (2.5 points)
 * Font styling (2.5 points)
 * Hyperlink (2.5 points)
