@@ -1,5 +1,14 @@
 ## Module 1 Challenge
 
+Must inlcude least one of each of the following:
+* Heading (2.5 points)
+* Font styling (2.5 points)
+* Hyperlink (2.5 points)
+* Block Quote (2.5 points)
+  
+The report style showcases the writer's expertise and builds credibility. (10 points)
+
+
 # TITLE
 
 ## Overview and Origin
@@ -49,3 +58,13 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## References
+
+* Websites
+
+* Podcasts
+
+* Articles
+
+* Reports
