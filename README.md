@@ -23,18 +23,22 @@ There are two sets of general customers:
 1. Industries such manufacturing, warehousing, shipping & logistics, and retail where humaniods will address labor shortages. 
 2. The general public where humanoids will work alongside people to assit with undesirable, dangerous, and monotonous tasks. 
 
-Like many companies, Figure AI has had to overcome supply chain issues as well as subpar materials to meet their needs. In order to achieve high reliability, safety and high performance standards, they reluctantly they made the choice to build many key materials from scratch; These include motors, actuators, sensors, battery packs and other types of electronics.
+Like many companies, Figure AI has had to overcome supply chain issues as well as subpar materials to meet their needs. In order to achieve high reliability, safety and high performance standards, they reluctantly made the choice to build many key materials from scratch; These include motors, actuators, sensors, battery packs and other types of electronics.
 
-The robot can be seen as a composite of multiple systems, that use computing, operating systems, AI systems and control algorithms.  firmware, employs mechanical design, with battery systems, motors, accuators, battery packs and other types of electronics.
+The robot can be seen as a composite of multiple systems, that use computing, operating systems, AI systems and control algorithms.  firmware, employs mechanical design, with battery systems, motors, actuators, battery packs and other types of electronics.
 
 ## Landscape
 
-The company's business strategy is to get to market as soon as possible to start generating revenue. They will initally focus on the manufacturing industry because of its constraints such as high turnover, labor shortages, inherent dangers, and boring, repetitive tasks people generally do not like to do. One advantage of the manufacturing industry is that it is very structured which will help Figure AI develop the AI data engine that will be used to train the robot. They plan to later move into the consumer marketplace but realize that it will take millions of more dollars and years to bring the humanoid to the consumer marketplace at a reasonable price point. The robots will need to be more generalized to be able to operate in different homes and layouts, perform a variety of tasks with a variety of items it may grab and speak with humans across a mulitutde of languages. 
+The company's business strategy is to get to market as soon as possible to start generating revenue. They will initially focus on the manufacturing industry because of its constraints such as high turnover, labor shortages, inherent dangers, and boring, repetitive tasks people generally do not like to do. One advantage of the manufacturing industry is that it is very structured which will help Figure AI develop the AI data engine that will be used to train the robot. They plan to later move into the consumer marketplace but realize that it will take millions of more dollars and years to bring the humanoid to the consumer marketplace at a reasonable price point. The robots will need to be more generalized to be able to operate in different homes and layouts, perform a variety of tasks with a variety of items it may grab and speak with humans across a multitude of languages. 
 
-The advances in robotics and engeienering has allowed Figure AI to create and execute thier vision. There have been improvemnets in the energy and power density of the motors that drive the robots, particulary the electric accuators which allows them to build a light, high powered and high energy system. Large language models will enable the company to take the robots from the warehouse to the home. People will be able to interact with the robots through language to get them to complete tasks. 
+The advances in robotics and engineering has allowed Figure AI to create and execute their vision. There have been improvements in the energy and power density of the motors that drive the robots, particularly the electric actuators which allows them to build a light, high powered and high energy system. Large language models will enable the company to take the robots from the warehouse to the home. People will be able to interact with the robots through language to get them to complete tasks. 
 
-Other Robtcs 
-- ABB
+Other Industrial Robotic Companies inlcude
+- ABB LTD
+- Denso
+- Kuka
+- Fanuc
+- Yaskawa Electric
 
 
 ## Results
