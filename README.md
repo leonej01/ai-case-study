@@ -14,7 +14,7 @@ Brett Adcock, Founder, CEO
 
 ## Business Activities
 
-The company's primary focus is on bi-pedal humanoid robotics. In a Techcrunch interview (Heater, 20023), company founder Brett Adcock believes that
+The company's primary focus is on bi-pedal humanoid robotics. In a Techcrunch interview (Heater, 2023), company founder Brett Adcock believes that
   > humanoids will revolutionize a variety of industries, from corporate labor roles, to assisting individuals in the home, to caring for the elderly, to building new worlds on other planets. 
 
 Figure AI's strategy is to to develop their AI models by initially focusing on the manufacturing industry which is highly organized, standardized and employs repetitive tasks.  This focus will allow them to generate income as quickly as possible before they start work on consumer facing humanoids. 
@@ -57,19 +57,22 @@ Other Humanoid Robotic Companies include
 
 Websites
 
-&ensp;Heater, B. (2023, March 2). *Figure emerges from stealth with the first images of its humanoid robot.* TechCrunch. https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/ 
-&ensp;Hu, K. (2023, May 24). *Ai startup figure raises $70 million to build humanoid robots.* Reuters. https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/ 
-&ensp;Intelligence, I. (2023, January 1). *US healthcare industry 2023: Sectors, Trends &amp; Statistics.* Insider Intelligence. https://www.insiderintelligence.com/insights/healthcare-industry/ 
-&ensp;Law, M. (2023, February 10). *Top 10 industrial robotics companies in the world in 2023.* Technology Magazine. https://technologymagazine.com/top10/top-10-industrial-robotics-companies-in-the-world-in-2023 
+Heater, B. (2023, March 2). *Figure emerges from stealth with the first images of its humanoid robot.* TechCrunch. https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/ 
+
+Hu, K. (2023, May 24). *Ai startup figure raises $70 million to build humanoid robots.* Reuters. https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/ 
+
+Intelligence, I. (2023, January 1). *US healthcare industry 2023: Sectors, Trends &amp; Statistics.* Insider Intelligence. https://www.insiderintelligence.com/insights/healthcare-industry/ 
+
+Law, M. (2023, February 10). *Top 10 industrial robotics companies in the world in 2023.* Technology Magazine. https://technologymagazine.com/top10/top-10-industrial-robotics-companies-in-the-world-in-2023 
 
 Podcasts
 
-&ensp;FYI For Your Information (https://podcasts.apple.com/us/podcast/the-future-of-human-like-robots-with-figure-ais-brett-adcock/id1271691895?i=1000637066369)
+FYI For Your Information (https://podcasts.apple.com/us/podcast/the-future-of-human-like-robots-with-figure-ais-brett-adcock/id1271691895?i=1000637066369)
 
 Videos
 
-&ensp;https://youtu.be/1DV0yCuhY4A?si=P_18zSv8vNf37vga
+https://youtu.be/1DV0yCuhY4A?si=P_18zSv8vNf37vga
 
 Journal Articles
 
-&ensp;Russo M. *Measuring Performance: Metrics for Manipulator Design, Control, and Optimization.* Robotics. 2023; 12(1):4. https://doi.org/10.3390/robotics12010004
+Russo M. *Measuring Performance: Metrics for Manipulator Design, Control, and Optimization.* Robotics. 2023; 12(1):4. https://doi.org/10.3390/robotics12010004
