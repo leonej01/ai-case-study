@@ -1,29 +1,16 @@
-## Module 1 Challenge
-
-Must inlcude at least one of each of the following:
-* Heading (2.5 points)
-* Font styling (2.5 points)
-* Hyperlink (2.5 points)
-* Block Quote (2.5 points)
-  
-The report style showcases the writer's expertise and builds credibility. (10 points)
-
-
 # Module 1 Challenge AI Case Study
 
 ## Overview and Origin
 
-* Name of company: Figure AI, Sunaydale California
+* Figure AI, Sunnydale, California
+* Incorporated 2022
+* Brett Adcock,Founder, CEO
 
-* When was the company incorporated? 2022
+* The company aims to create affordable, and practical humanoid robotics.  
 
-* Who are the founders of the company? Brett Adcock
-
-* How did the idea for the company (or project) come about? The company aims to create affordable, and practical humanoid robotics.  
-
-* How is the company funded? How much funding have they received? The company has secured a total of $79 million to date. 
-- 70 million in April 2023 from lead investor Parkway Venture
-- 9 million in July 2023 from lead investors Intel Capital
+* The company has secured a total of $79 million to date. 
+  - 70 million in April 2023 from lead investor Parkway Venture
+  - 9 million in July 2023 from lead investors Intel Capital
 
 ## Business Activities
 
