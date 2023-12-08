@@ -33,25 +33,23 @@ The company's business strategy is to get to market as soon as possible to start
 
 The advances in robotics and engineering has allowed Figure AI to create and execute their vision. There have been improvements in the energy and power density of the motors that drive the robots, particularly the electric actuators which allows them to build a light, high powered and high energy system. Large language models will enable the company to take the robots from the warehouse to the home. People will be able to interact with the robots through language to get them to complete tasks. 
 
-Other Industrial Robotic Companies inlcude
-- ABB LTD
-- Denso
-- Kuka
-- Fanuc
-- Yaskawa Electric
+Other Humanoid Robotic Companies inlcude
+- Hanson Robotics
+- Boston Dynamics
+- PAL Robotics
+- UBTECH Robotics
+- Agility Robotics
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Figure AI has not yet brought thier humanoid bi-pedal robot to market but aims to do so by 2024. Some of their performance targets include, a 5 hour runtime, a walking speed of 2 meters/second and the ablity to lift 20kg. There is no standard rubric for performace metrics but common measures include, cost, speed, weight, accuracy, reliability and safety. 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+* Many humanoid robots exist with different capbilities and  purposes across a variety of settings. Figure AI's vision is to have 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -72,3 +70,11 @@ Law, M. (2023, February 10). *Top 10 industrial robotics companies in the world 
 Podcasts
 
 FYI For Your Information (https://podcasts.apple.com/us/podcast/the-future-of-human-like-robots-with-figure-ais-brett-adcock/id1271691895?i=1000637066369)
+
+Vidoes
+
+https://youtu.be/1DV0yCuhY4A?si=P_18zSv8vNf37vga
+
+Jounal Articles
+
+Russo M. *Measuring Performance: Metrics for Manipulator Design, Control, and Optimization.* Robotics. 2023; 12(1):4. https://doi.org/10.3390/robotics12010004
