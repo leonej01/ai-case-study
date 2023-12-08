@@ -2,37 +2,36 @@
 
 ## Overview and Origin
 
-* Figure AI, Sunnydale, California
-* Incorporated 2022
-* Brett Adcock,Founder, CEO
+Figure AI, Sunnydale, California \
+Incorporated 2022 \
+Brett Adcock, Founder, CEO
 
-* The company aims to create affordable, and practical humanoid robotics.  
+* The company aims to create affordable and practical humanoid robotics.  
 
-* The company has secured a total of $79 million to date. 
+* The company has secured a total of $79 million in funding to date: 
   - 70 million in April 2023 from lead investor Parkway Venture
   - 9 million in July 2023 from lead investors Intel Capital
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? The company is mostly focused on bi-pedal humanoid robotics. Company founder Brett Adock states > We believe humanoids will revolutionize a variety of industries, from corporate labor roles, to assisting individuals in the home, to caring for the elderly, to building new worlds on other planets. 
+The company's primary focus is on bi-pedal humanoid robotics. In a Techcrunch interview (Heater, 20023) company founder Brett Adock believes that
+  > humanoids will revolutionize a variety of industries, from corporate labor roles, to assisting individuals in the home, to caring for the elderly, to building new worlds on other planets. 
 
-Their strategy is to start with industry to develop their AI models based on largely repetitive tasks and to also generate income as qucik as possible to then invest and build  
+Figure AI's strategy is to to develop their AI models by initally focusing on the maufacturing industry due to their largely repetitive tasks.  This will allow them to generate income as quickly as possible before they start work on consumer facing humanoids. 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers? There are two sets of general customers:
-    1. Industries such manufacturing, warehousing, shipping & logistics, and retail where humaniods will adress labor shortages. 
+There are two sets of general customers:
+    1. Industries such manufacturing, warehousing, shipping & logistics, and retail where humaniods will address labor shortages. 
     2. The general public where humanoids will work alongside people to assit with undesirable, dangerous, and monotonous tasks. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) Like many companies, Figure has had to overcome supply chain issues as well as subpar materials to meet their demands. They have decided to build many key materials from scratch such as sensors, 
+Like many companies, Figure AI has had to overcome supply chain issues as well as subpar materials to meet their needs. Reluctantly they made the choice to build many key materials from scratch such as sensors, 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.) Senors
 
 ## Landscape
 
-* What field is the company in? The company's business strategy is to get to market as soon as possible to start generating revenue. They will initally focus on the manufacturing industry because of its constraints such as high turnover, labor shortages and boring, repetitive tasks people generally do not like to do. One advantage of the manufacturing industry is it is very structured which will help Figure develop the AI data engine that will be used to train the robot. They plan to later move into the consumer marketplace but realize that it will take millions of more dollars and years to bring the humanoid to the consumer marketplace at a reasonable price point. The robots will need to be more generalized to be able to operate in different homes and layouts, perform a variety of tasks with a variety of items it nmay grab and speak with humans across a muitutde of languages. 
+The company's business strategy is to get to market as soon as possible to start generating revenue. They will initally focus on the manufacturing industry because of its constraints such as high turnover, labor shortages, inherent dangers, and boring, repetitive tasks people generally do not like to do. One advantage of the manufacturing industry is that it is very structured which will help Figure develop the AI data engine that will be used to train the robot. They plan to later move into the consumer marketplace but realize that it will take millions of more dollars and years to bring the humanoid to the consumer marketplace at a reasonable price point. The robots will need to be more generalized to be able to operate in different homes and layouts, perform a variety of tasks with a variety of items it may grab and speak with humans across a mulitutde of languages. 
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years? Robots using bi-pedal locomotion has advanced where come a long way. 
-There have been improvemnets in the energy and power density of the motors that drive the robots, particulary the electric accuators which allows them to build a light, high powered and high energy system. 
-Large language models will enable the company to take the robots from the warehouse to the home. People will be able to interact with the robots through language to get them to complete tasks. 
+The advances in robotics and engeienering has allowed Figure AI to create and execute thier vision. There have been improvemnets in the energy and power density of the motors that drive the robots, particulary the electric accuators which allows them to build a light, high powered and high energy system. Large language models will enable the company to take the robots from the warehouse to the home. People will be able to interact with the robots through language to get them to complete tasks. 
 
 
  show video
@@ -61,14 +60,14 @@ Large language models will enable the company to take the robots from the wareho
 
 ## References
 
-* Websites
-<
-<https://www.crunchbase.com/organization/figure-b5dc>
-<https://technologymagazine.com/top10/top-10-industrial-robotics-companies-in-the-world-in-2023>
+Websites
 
-* Podcasts
-[FYI For Your Information] (https://podcasts.apple.com/us/podcast/the-future-of-human-like-robots-with-figure-ais-brett-adcock/id1271691895?i=1000637066369)
+Heater, B. (2023, March 2). *Figure emerges from stealth with the first images of its humanoid robot.* TechCrunch. <https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/>
 
-* Articles
+Hu, K. (2023, May 24). *Ai startup figure raises $70 million to build humanoid robots.* Reuters. <https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/>
 
-* Reports
+Law, M. (2023, February 10). *Top 10 industrial robotics companies in the world in 2023.* Technology Magazine. <https://technologymagazine.com/top10/top-10-industrial-robotics-companies-in-the-world-in-2023> 
+
+Podcasts
+
+FYI For Your Information (https://podcasts.apple.com/us/podcast/the-future-of-human-like-robots-with-figure-ais-brett-adcock/id1271691895?i=1000637066369)
